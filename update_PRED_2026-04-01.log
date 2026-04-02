@@ -1,0 +1,16 @@
+2026-04-01 18:05:23,312 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-01 18:05:23,548 - INFO - Inicio del programa
+2026-04-01 18:05:23,651 - INFO - Calculando predicciones
+2026-04-01 18:05:26,299 - INFO - Predicciones calculadas: 
+             prediction    real  error_pct
+date                                      
+2026-03-26  3228.009282  3332.0  -3.120970
+2026-03-27  3257.713352  3292.0  -1.041514
+2026-03-30  3271.559834  3482.0  -6.043658
+2026-03-31  3369.286796  3585.0  -6.017105
+2026-04-01  3467.018440  3583.5  -3.250497
+2026-04-02  3526.547064     NaN        NaN
+
+2026-04-01 18:05:26,300 - INFO - Actualizando base de datos
+2026-04-01 18:05:26,359 - INFO - Base actualizada correctamente
+
